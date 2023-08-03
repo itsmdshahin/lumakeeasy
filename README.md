@@ -11,7 +11,7 @@ Makeup exam is another essential feature of the application. It enables students
 
 By introducing this application, we aim to streamline the above-mentioned processes and provide a user-friendly platform that simplifies the application for partial payment and makeup examinations. This will significantly reduce the administrative burden on students and facilitate a more efficient and seamless academic experience.
 
-
+Download Apk :  
 
 
 
