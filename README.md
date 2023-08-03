@@ -46,8 +46,7 @@ npx expo start
 
 ## Screenshots
 
-![favicon](https://github.com/itsmdshahin/lumakeeasy/assets/67356028/250bd2f5-b6dc-4726-9dc6-3c8337ff59da)
-![Uploading x18TKSMlJ1Grxe4uVCor7a49Zj7FgnSmsNkEvfDKDME=_plaintext_638266814708257348.jpg…]()
+![favicon](https://github.com/itsmdshahin/lumakeeasy/assets/67356028/250bd2f5-b6dc-4726-9dc6-3c8337ff59da) ![Uploading x18TKSMlJ1Grxe4uVCor7a49Zj7FgnSmsNkEvfDKDME=_plaintext_638266814708257348.jpg…]()
 ![vk26H6MyEJw1j5drAvg4olzA25OBhE_pa87q491Imk8=_plaintext_638266814711511348](https://github.com/itsmdshahin/lumakeeasy/assets/67356028/ed1c5305-2026-4cda-bf4b-63ecc6ecc6d0)
 
 
